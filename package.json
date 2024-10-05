@@ -1,0 +1,13 @@
+{
+  "name": "suporte-tickets",
+  "version": "1.0.0",
+  "main": "./src/serve.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Ellyan Góes",
+  "license": "ISC",
+  "description": "API de gerenciamento de tickets de suporte"
+}
